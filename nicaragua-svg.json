@@ -1,0 +1,174 @@
+{
+  "departments": {
+    "BO": {
+      "name": "Boaco",
+      "title": "Boaco department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "CA": {
+      "name": "Carazo",
+      "title": "Carazo department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "CI": {
+      "name": "Chinandega",
+      "title": "Chinandega department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "CO": {
+      "name": "Chontales",
+      "title": "Chontales department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "ES": {
+      "name": "Esteli",
+      "title": "Esteli department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "GR": {
+      "name": "Granada",
+      "title": "Granada department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "JI": {
+      "name": "Jinotega",
+      "title": "Jinotega department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "LE": {
+      "name": "Leon",
+      "title": "Leon department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "MD": {
+      "name": "Madriz",
+      "title": "Madriz department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "MN": {
+      "name": "Managua",
+      "title": "Managua department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "MY": {
+      "name": "Masaya",
+      "title": "Masaya department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "MT": {
+      "name": "Matagalpa",
+      "title": "Matagalpa department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "NS": {
+      "name": "Nueva Segovia",
+      "title": "Nueva Segovia department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "AN": {
+      "name": "Regi\u00f3n Autonoma del Atl\u00e1ntico Norte",
+      "title": "Regi\u00f3n Autonoma del Atl\u00e1ntico Norte",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "AS": {
+      "name": "Regi\u00f3n Autonoma del Atl\u00e1ntico Sur",
+      "title": "Regi\u00f3n Autonoma del Atl\u00e1ntico Sur",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "SJ": {
+      "name": "Rio san Juan",
+      "title": "Rio san Juan department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    },
+    "RI": {
+      "name": "Rivas",
+      "title": "Rivas department",
+      "class": "department",
+      "fill": "#A8AEB8",
+      "stroke-width": 2,
+      "stroke": "#FFF",
+      "link": "http:\/\/www.kronoscode.com",
+      "target": "_top"
+    }
+  }
+}
