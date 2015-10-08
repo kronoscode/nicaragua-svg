@@ -1,0 +1,23 @@
+{
+  "name": "nicaragua-svg",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kronoscode/nicaragua-svg",
+  "authors": [
+    "Oscar Cortez <om.cortez.2010@gmail.com>"
+  ],
+  "description": "Nicaragua map in svg",
+  "main": "app.js",
+  "keywords": [
+    "map",
+    "nicaragua",
+    "svg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
