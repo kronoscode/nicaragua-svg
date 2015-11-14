@@ -5,8 +5,8 @@
       "title": "Boaco department",
       "class": "department",
       "fill": "#1abc9c",
-      "stroke-width": 2,
-      "stroke": "#FFF",
+      "stroke_width": 0.5,
+      "stroke": "#D35400",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
     },
@@ -15,7 +15,7 @@
       "title": "Carazo department",
       "class": "department",
       "fill": "#2ecc71",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -25,7 +25,7 @@
       "title": "Chinandega department",
       "class": "department",
       "fill": "#3498db",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -35,7 +35,7 @@
       "title": "Chontales department",
       "class": "department-co",
       "fill": "#9b59b6",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -45,7 +45,7 @@
       "title": "Esteli department",
       "class": "department",
       "fill": "#c0392b",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -55,7 +55,7 @@
       "title": "Granada department",
       "class": "department",
       "fill": "#e74c3c",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -65,7 +65,7 @@
       "title": "Jinotega department",
       "class": "department",
       "fill": "#ecf0f1",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -75,7 +75,7 @@
       "title": "Leon department",
       "class": "department",
       "fill": "#e67e22",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -85,7 +85,7 @@
       "title": "Madriz department",
       "class": "department",
       "fill": "#f1c40f",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -95,7 +95,7 @@
       "title": "Managua department",
       "class": "department",
       "fill": "#f39c12",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -105,7 +105,7 @@
       "title": "Masaya department",
       "class": "department",
       "fill": "#c0392b",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -115,7 +115,7 @@
       "title": "Matagalpa department",
       "class": "department",
       "fill": "#7f8c8d",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -125,7 +125,7 @@
       "title": "Nueva Segovia department",
       "class": "department",
       "fill": "#c0392b",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -135,7 +135,7 @@
       "title": "Regi\u00f3n Autonoma del Atl\u00e1ntico Norte",
       "class": "department",
       "fill": "#2980b9",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -145,7 +145,7 @@
       "title": "Regi\u00f3n Autonoma del Atl\u00e1ntico Sur",
       "class": "department",
       "fill": "#f39c12",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -155,7 +155,7 @@
       "title": "Rio san Juan department",
       "class": "department",
       "fill": "#2ecc71",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
@@ -165,7 +165,7 @@
       "title": "Rivas department",
       "class": "department",
       "fill": "#c0392b",
-      "stroke-width": 2,
+      "stroke_width": 0.5,
       "stroke": "#FFF",
       "link": "http:\/\/www.kronoscode.com",
       "target": "_top"
