@@ -8,6 +8,8 @@ var source = require('vinyl-source-stream');
 var _ = require('lodash');
 var browserSync = require('browser-sync');
 var reload = browserSync.reload;
+var minify = require('gulp-minify');
+var svgmin = require('gulp-svgmin');
 
 var config = {
   entryFile: './src/app.js',
@@ -42,8 +44,20 @@ gulp.task('build-persistent', ['clean'], function() {
   return bundle();
 });
 
-gulp.task('build', ['build-persistent'], function() {
+gulp.task('build-js', ['build-persistent'], function() {
   process.exit(0);
+});
+
+gulp.task('build-svg', function() {
+  gulp.src('mapa_nic.svg')
+    .pipe(svgmin())
+    .pipe(gulp.dest('dist'))
+});
+
+gulp.task('build-dist', ['build-js', 'build-svg'], function() {
+  gulp.src('dist/*.js')
+    .pipe(minify())
+    .pipe(gulp.dest('dist'))
 });
 
 gulp.task('watch', ['build-persistent'], function() {
