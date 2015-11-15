@@ -27,7 +27,8 @@ class NicSvg {
               document.getElementById(this.svgElem),
               { evalScripts: 'once' },
               function () {
-                // call getJSON once all the requested SVG elements have been injected.
+                // call getJSON once all the requested 
+                // SVG elements have been injected.
                 _this.getJSON();
               }
             );
